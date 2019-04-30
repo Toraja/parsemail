@@ -1,0 +1,27 @@
+Mime-Version: 1.0
+Date: Sat, 27 Apr 2019 23:04:41 +0900
+From: alex@example.com
+To: cora@example.com
+Cc: dan@example.com
+Subject: Hello!
+Content-Type: multipart/mixed;
+ boundary=42d32067b155caf980d650f27ea541bbcd081cd8e7aeaeabe85906e6e00b
+X-Peer: 127.0.0.1
+
+--42d32067b155caf980d650f27ea541bbcd081cd8e7aeaeabe85906e6e00b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+Dear gopher,
+Never give up! Tomorrow always comes.
+Best Regards,
+
+--42d32067b155caf980d650f27ea541bbcd081cd8e7aeaeabe85906e6e00b
+Content-Disposition: attachment; filename="xyz.csv"
+Content-Transfer-Encoding: base64
+Content-Type: application/octet-stream; name="xyz.csv"
+
+YXBwbGUsYmFuYW5hLGNoZXJyeSxkdXJpYW4sZWxkZXJiZXJyeSxmaWcsZ3JhcGUKYXJtYWRpbGxv
+LGJlYXIsY2F0LGRvZyxlbGVwaGFudCxmb3gsZ29waGVyCmJlYXIsZ2luLGdyYXBwYSxtZWFkLHJ1
+bSx0ZXF1aWxhd2luZSx3aGlza3kK
+--42d32067b155caf980d650f27ea541bbcd081cd8e7aeaeabe85906e6e00b--

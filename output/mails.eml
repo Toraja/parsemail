@@ -1,0 +1,116 @@
+---------- MESSAGE FOLLOWS ----------
+Mime-Version: 1.0
+Date: Fri, 26 Apr 2019 23:06:18 +0900
+From: alex@example.com
+To: bob@example.com
+Cc: "Dan" <dan@example.com>
+Subject: Hello!
+Content-Type: multipart/mixed;
+ boundary=933dd29048606ebddbdc146a8054231eb5c4605ac98bd0bb17534f1672a0
+X-Peer: 127.0.0.1
+
+--933dd29048606ebddbdc146a8054231eb5c4605ac98bd0bb17534f1672a0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+Dear gopher,
+Never give up! Tomorrow always comes.
+Best Regards,
+
+--933dd29048606ebddbdc146a8054231eb5c4605ac98bd0bb17534f1672a0
+Content-Disposition: attachment; filename="xyz.csv"
+Content-Transfer-Encoding: base64
+Content-Type: application/octet-stream; name="xyz.csv"
+
+YXBwbGUsYmFuYW5hLGNoZXJyeSxkdXJpYW4sZWxkZXJiZXJyeSxmaWcsZ3JhcGUKYXJtYWRpbGxv
+LGJlYXIsY2F0LGRvZyxlbGVwaGFudCxmb3gsZ29waGVyCmJlYXIsZ2luLGdyYXBwYSxtZWFkLHJ1
+bSx0ZXF1aWxhd2luZSx3aGlza3kK
+--933dd29048606ebddbdc146a8054231eb5c4605ac98bd0bb17534f1672a0--
+------------ END MESSAGE ------------
+---------- MESSAGE FOLLOWS ----------
+Mime-Version: 1.0
+Date: Fri, 26 Apr 2019 23:06:18 +0900
+From: alex@example.com
+To: cora@example.com
+Cc: "Dan" <dan@example.com>
+Subject: Hello!
+Content-Type: multipart/mixed;
+ boundary=d13cce830dd20f78f8f750ff423bb2c2dc336252567c6a57744ac37074f9
+X-Peer: 127.0.0.1
+
+--d13cce830dd20f78f8f750ff423bb2c2dc336252567c6a57744ac37074f9
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+Dear gopher,
+Never give up! Tomorrow always comes.
+Best Regards,
+
+--d13cce830dd20f78f8f750ff423bb2c2dc336252567c6a57744ac37074f9
+Content-Disposition: attachment; filename="xyz.csv"
+Content-Transfer-Encoding: base64
+Content-Type: application/octet-stream; name="xyz.csv"
+
+YXBwbGUsYmFuYW5hLGNoZXJyeSxkdXJpYW4sZWxkZXJiZXJyeSxmaWcsZ3JhcGUKYXJtYWRpbGxv
+LGJlYXIsY2F0LGRvZyxlbGVwaGFudCxmb3gsZ29waGVyCmJlYXIsZ2luLGdyYXBwYSxtZWFkLHJ1
+bSx0ZXF1aWxhd2luZSx3aGlza3kK
+--d13cce830dd20f78f8f750ff423bb2c2dc336252567c6a57744ac37074f9--
+------------ END MESSAGE ------------
+---------- MESSAGE FOLLOWS ----------
+Mime-Version: 1.0
+Date: Fri, 26 Apr 2019 23:06:18 +0900
+From: alex@example.com
+To: david@example.com
+Cc: "Dan" <dan@example.com>
+Subject: Hello!
+Content-Type: multipart/mixed;
+ boundary=7b81d7e16f4e64e49a3faad9336d7df5d21b7f988c5d49b4e71b41999cd2
+X-Peer: 127.0.0.1
+
+--7b81d7e16f4e64e49a3faad9336d7df5d21b7f988c5d49b4e71b41999cd2
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+Dear gopher,
+Never give up! Tomorrow always comes.
+Best Regards,
+
+--7b81d7e16f4e64e49a3faad9336d7df5d21b7f988c5d49b4e71b41999cd2
+Content-Disposition: attachment; filename="xyz.csv"
+Content-Transfer-Encoding: base64
+Content-Type: application/octet-stream; name="xyz.csv"
+
+YXBwbGUsYmFuYW5hLGNoZXJyeSxkdXJpYW4sZWxkZXJiZXJyeSxmaWcsZ3JhcGUKYXJtYWRpbGxv
+LGJlYXIsY2F0LGRvZyxlbGVwaGFudCxmb3gsZ29waGVyCmJlYXIsZ2luLGdyYXBwYSxtZWFkLHJ1
+bSx0ZXF1aWxhd2luZSx3aGlza3kK
+--7b81d7e16f4e64e49a3faad9336d7df5d21b7f988c5d49b4e71b41999cd2--
+------------ END MESSAGE ------------
+---------- MESSAGE FOLLOWS ----------
+Mime-Version: 1.0
+Date: Fri, 26 Apr 2019 23:06:18 +0900
+From: alex@example.com
+To: ema@example.com
+Cc: "Dan" <dan@example.com>
+Subject: Hello!
+Content-Type: multipart/mixed;
+ boundary=33b1766f4224b4b2585863bd7a4557c0cf29df4c37e88702251a64571611
+X-Peer: 127.0.0.1
+
+--33b1766f4224b4b2585863bd7a4557c0cf29df4c37e88702251a64571611
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+Dear gopher,
+Never give up! Tomorrow always comes.
+Best Regards,
+
+--33b1766f4224b4b2585863bd7a4557c0cf29df4c37e88702251a64571611
+Content-Disposition: attachment; filename="xyz.csv"
+Content-Transfer-Encoding: base64
+Content-Type: application/octet-stream; name="xyz.csv"
+
+YXBwbGUsYmFuYW5hLGNoZXJyeSxkdXJpYW4sZWxkZXJiZXJyeSxmaWcsZ3JhcGUKYXJtYWRpbGxv
+LGJlYXIsY2F0LGRvZyxlbGVwaGFudCxmb3gsZ29waGVyCmJlYXIsZ2luLGdyYXBwYSxtZWFkLHJ1
+bSx0ZXF1aWxhd2luZSx3aGlza3kK
+--33b1766f4224b4b2585863bd7a4557c0cf29df4c37e88702251a64571611--
+------------ END MESSAGE ------------
